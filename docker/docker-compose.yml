@@ -4,7 +4,4 @@ services:
    build: ../encrypt-information
    ports:
      - 4003
-  decrypt-information:
-   build: ../decrypt-information
-   ports:
-     - 4017
+ 
