@@ -1,6 +1,6 @@
 version: "3.9"
 services:
-  problem1-1:
+  encrypt-information:
    build: ../encrypt-information
    ports:
      - 4003
